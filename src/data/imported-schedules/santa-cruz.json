@@ -145,8 +145,7 @@
     "arrival": "06:00",
     "departure": "21:00",
     "callType": "Port of call",
-    "timeInPort": "15h",
-    "notes": "overnight/next-day timing"
+    "timeInPort": "15h"
   },
   {
     "date": "2026-11-03",
@@ -179,8 +178,7 @@
     "cruiseLine": "AIDA",
     "arrival": "",
     "departure": "22:00",
-    "callType": "Port of call",
-    "notes": "departure only"
+    "callType": "Port of call"
   },
   {
     "date": "2026-11-10",
@@ -188,8 +186,7 @@
     "cruiseLine": "TUI Cruises",
     "arrival": "",
     "departure": "22:30",
-    "callType": "Port of call",
-    "notes": "departure only"
+    "callType": "Port of call"
   },
   {
     "date": "2026-11-11",
@@ -232,8 +229,7 @@
     "cruiseLine": "TUI Cruises",
     "arrival": "",
     "departure": "22:30",
-    "callType": "Port of call",
-    "notes": "departure only"
+    "callType": "Port of call"
   },
   {
     "date": "2026-11-17",
@@ -250,8 +246,7 @@
     "cruiseLine": "AIDA",
     "arrival": "",
     "departure": "22:00",
-    "callType": "Port of call",
-    "notes": "departure only"
+    "callType": "Port of call"
   },
   {
     "date": "2026-11-18",
@@ -269,8 +264,7 @@
     "arrival": "09:00",
     "departure": "22:00",
     "callType": "Port of call",
-    "timeInPort": "13h",
-    "notes": "departure only"
+    "timeInPort": "13h"
   },
   {
     "date": "2026-11-20",
@@ -278,8 +272,7 @@
     "cruiseLine": "TUI Cruises",
     "arrival": "",
     "departure": "22:30",
-    "callType": "Port of call",
-    "notes": "departure only"
+    "callType": "Port of call"
   },
   {
     "date": "2026-11-21",
@@ -297,8 +290,7 @@
     "arrival": "13:00",
     "departure": "23:00",
     "callType": "Port of call",
-    "timeInPort": "10h",
-    "notes": "departure only"
+    "timeInPort": "10h"
   },
   {
     "date": "2026-11-21",
@@ -324,8 +316,7 @@
     "arrival": "09:30",
     "departure": "20:00",
     "callType": "Port of call",
-    "timeInPort": "10h 30m",
-    "notes": "port time not found in itinerary"
+    "timeInPort": "10h 30m"
   },
   {
     "date": "2026-11-22",
@@ -334,8 +325,7 @@
     "arrival": "08:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "timeInPort": "10h",
-    "notes": "port time not found in itinerary"
+    "timeInPort": "10h"
   },
   {
     "date": "2026-11-22",
@@ -360,8 +350,7 @@
     "cruiseLine": "TUI Cruises",
     "arrival": "",
     "departure": "22:30",
-    "callType": "Port of call",
-    "notes": "departure only"
+    "callType": "Port of call"
   },
   {
     "date": "2026-11-26",
@@ -369,8 +358,7 @@
     "cruiseLine": "AIDA",
     "arrival": "",
     "departure": "22:00",
-    "callType": "Port of call",
-    "notes": "departure only"
+    "callType": "Port of call"
   },
   {
     "date": "2026-11-28",
@@ -378,8 +366,7 @@
     "cruiseLine": "AIDA",
     "arrival": "",
     "departure": "22:00",
-    "callType": "Port of call",
-    "notes": "departure only"
+    "callType": "Port of call"
   },
   {
     "date": "2026-11-28",
@@ -396,8 +383,7 @@
     "cruiseLine": "Costa Cruises",
     "arrival": "",
     "departure": "20:00",
-    "callType": "Port of call",
-    "notes": "departure only"
+    "callType": "Port of call"
   },
   {
     "date": "2026-11-30",
@@ -439,8 +425,7 @@
     "cruiseLine": "Marella Cruises",
     "arrival": "",
     "departure": "22:00",
-    "callType": "Port of call",
-    "notes": "departure only"
+    "callType": "Port of call"
   },
   {
     "date": "2027-02-02",
@@ -448,8 +433,7 @@
     "cruiseLine": "TUI Cruises",
     "arrival": "",
     "departure": "22:30",
-    "callType": "Port of call",
-    "notes": "departure only"
+    "callType": "Port of call"
   },
   {
     "date": "2027-02-03",
@@ -457,8 +441,7 @@
     "cruiseLine": "AIDA",
     "arrival": "",
     "departure": "22:00",
-    "callType": "Port of call",
-    "notes": "departure only"
+    "callType": "Port of call"
   },
   {
     "date": "2027-02-05",
@@ -466,8 +449,7 @@
     "cruiseLine": "P & O Cruises",
     "arrival": "",
     "departure": "",
-    "callType": "Port of call",
-    "notes": "overnight/next-day timing"
+    "callType": "Port of call"
   },
   {
     "date": "2027-02-05",
@@ -475,8 +457,7 @@
     "cruiseLine": "Marella Cruises",
     "arrival": "",
     "departure": "22:00",
-    "callType": "Port of call",
-    "notes": "departure only"
+    "callType": "Port of call"
   },
   {
     "date": "2027-02-14",
@@ -484,8 +465,7 @@
     "cruiseLine": "MSC Cruises",
     "arrival": "",
     "departure": "18:00",
-    "callType": "Port of call",
-    "notes": "departure only"
+    "callType": "Port of call"
   },
   {
     "date": "2027-02-16",
@@ -493,8 +473,7 @@
     "cruiseLine": "Marella Cruises",
     "arrival": "",
     "departure": "22:00",
-    "callType": "Port of call",
-    "notes": "departure only"
+    "callType": "Port of call"
   },
   {
     "date": "2027-02-16",
@@ -502,8 +481,7 @@
     "cruiseLine": "TUI Cruises",
     "arrival": "",
     "departure": "22:30",
-    "callType": "Port of call",
-    "notes": "departure only"
+    "callType": "Port of call"
   },
   {
     "date": "2027-02-16",
@@ -520,8 +498,7 @@
     "cruiseLine": "AIDA",
     "arrival": "",
     "departure": "22:00",
-    "callType": "Port of call",
-    "notes": "departure only"
+    "callType": "Port of call"
   },
   {
     "date": "2027-02-19",
@@ -529,8 +506,7 @@
     "cruiseLine": "P & O Cruises",
     "arrival": "",
     "departure": "",
-    "callType": "Port of call",
-    "notes": "overnight/next-day timing"
+    "callType": "Port of call"
   },
   {
     "date": "2027-02-27",
@@ -539,8 +515,7 @@
     "arrival": "09:00",
     "departure": "22:00",
     "callType": "Port of call",
-    "timeInPort": "13h",
-    "notes": "departure only"
+    "timeInPort": "13h"
   },
   {
     "date": "2027-02-28",
@@ -548,8 +523,7 @@
     "cruiseLine": "Costa Cruises",
     "arrival": "",
     "departure": "22:00",
-    "callType": "Port of call",
-    "notes": "departure only"
+    "callType": "Port of call"
   },
   {
     "date": "2027-02-28",
@@ -558,8 +532,7 @@
     "arrival": "08:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "timeInPort": "10h",
-    "notes": "departure only"
+    "timeInPort": "10h"
   },
   {
     "date": "2027-03-02",
@@ -567,8 +540,7 @@
     "cruiseLine": "Marella Cruises",
     "arrival": "",
     "departure": "22:00",
-    "callType": "Port of call",
-    "notes": "departure only"
+    "callType": "Port of call"
   },
   {
     "date": "2027-03-03",
@@ -576,8 +548,7 @@
     "cruiseLine": "AIDA",
     "arrival": "",
     "departure": "22:00",
-    "callType": "Port of call",
-    "notes": "departure only"
+    "callType": "Port of call"
   },
   {
     "date": "2027-03-04",
@@ -593,8 +564,7 @@
     "cruiseLine": "P & O Cruises",
     "arrival": "",
     "departure": "",
-    "callType": "Port of call",
-    "notes": "overnight/next-day timing"
+    "callType": "Port of call"
   },
   {
     "date": "2027-03-05",
@@ -602,8 +572,7 @@
     "cruiseLine": "Marella Cruises",
     "arrival": "",
     "departure": "22:00",
-    "callType": "Port of call",
-    "notes": "departure only"
+    "callType": "Port of call"
   },
   {
     "date": "2027-03-05",
@@ -611,8 +580,7 @@
     "cruiseLine": "TUI Cruises",
     "arrival": "",
     "departure": "22:30",
-    "callType": "Port of call",
-    "notes": "departure only"
+    "callType": "Port of call"
   },
   {
     "date": "2027-03-06",
@@ -621,8 +589,7 @@
     "arrival": "09:00",
     "departure": "22:00",
     "callType": "Port of call",
-    "timeInPort": "13h",
-    "notes": "arrival only"
+    "timeInPort": "13h"
   },
   {
     "date": "2027-03-07",
@@ -639,8 +606,7 @@
     "cruiseLine": "Costa Cruises",
     "arrival": "",
     "departure": "18:00",
-    "callType": "Port of call",
-    "notes": "departure only"
+    "callType": "Port of call"
   },
   {
     "date": "2027-03-07",
@@ -649,8 +615,7 @@
     "arrival": "08:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "timeInPort": "10h",
-    "notes": "departure only"
+    "timeInPort": "10h"
   },
   {
     "date": "2027-03-13",
@@ -658,8 +623,7 @@
     "cruiseLine": "TUI Cruises",
     "arrival": "",
     "departure": "22:30",
-    "callType": "Port of call",
-    "notes": "departure only"
+    "callType": "Port of call"
   },
   {
     "date": "2027-03-14",
@@ -668,8 +632,7 @@
     "arrival": "10:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "timeInPort": "8h",
-    "notes": "port time not found in itinerary"
+    "timeInPort": "8h"
   },
   {
     "date": "2027-03-14",
@@ -677,8 +640,7 @@
     "cruiseLine": "Costa Cruises",
     "arrival": "",
     "departure": "22:00",
-    "callType": "Port of call",
-    "notes": "departure only"
+    "callType": "Port of call"
   },
   {
     "date": "2027-03-14",
@@ -687,8 +649,7 @@
     "arrival": "08:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "timeInPort": "10h",
-    "notes": "departure only"
+    "timeInPort": "10h"
   },
   {
     "date": "2027-03-16",
@@ -705,8 +666,7 @@
     "cruiseLine": "Marella Cruises",
     "arrival": "",
     "departure": "22:00",
-    "callType": "Port of call",
-    "notes": "departure only"
+    "callType": "Port of call"
   },
   {
     "date": "2027-03-17",
@@ -714,8 +674,7 @@
     "cruiseLine": "AIDA",
     "arrival": "",
     "departure": "22:00",
-    "callType": "Port of call",
-    "notes": "departure only"
+    "callType": "Port of call"
   },
   {
     "date": "2027-03-18",
@@ -731,8 +690,7 @@
     "cruiseLine": "P & O Cruises",
     "arrival": "",
     "departure": "",
-    "callType": "Port of call",
-    "notes": "overnight/next-day timing"
+    "callType": "Port of call"
   },
   {
     "date": "2027-03-19",
@@ -740,8 +698,7 @@
     "cruiseLine": "Marella Cruises",
     "arrival": "",
     "departure": "22:00",
-    "callType": "Port of call",
-    "notes": "departure only"
+    "callType": "Port of call"
   },
   {
     "date": "2027-03-19",
@@ -749,8 +706,7 @@
     "cruiseLine": "TUI Cruises",
     "arrival": "",
     "departure": "22:30",
-    "callType": "Port of call",
-    "notes": "departure only"
+    "callType": "Port of call"
   },
   {
     "date": "2027-03-20",
@@ -759,8 +715,7 @@
     "arrival": "09:00",
     "departure": "22:00",
     "callType": "Port of call",
-    "timeInPort": "13h",
-    "notes": "departure only"
+    "timeInPort": "13h"
   },
   {
     "date": "2027-03-20",
@@ -777,8 +732,7 @@
     "cruiseLine": "Costa Cruises",
     "arrival": "",
     "departure": "22:00",
-    "callType": "Port of call",
-    "notes": "departure only"
+    "callType": "Port of call"
   },
   {
     "date": "2027-03-21",
@@ -787,8 +741,7 @@
     "arrival": "08:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "timeInPort": "10h",
-    "notes": "departure only"
+    "timeInPort": "10h"
   },
   {
     "date": "2027-03-22",
@@ -796,8 +749,7 @@
     "cruiseLine": "TUI Cruises",
     "arrival": "",
     "departure": "22:30",
-    "callType": "Port of call",
-    "notes": "departure only"
+    "callType": "Port of call"
   },
   {
     "date": "2027-03-23",
@@ -806,8 +758,7 @@
     "arrival": "10:00",
     "departure": "20:00",
     "callType": "Port of call",
-    "timeInPort": "10h",
-    "notes": "arrival only"
+    "timeInPort": "10h"
   },
   {
     "date": "2027-03-25",
@@ -816,8 +767,7 @@
     "arrival": "09:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "timeInPort": "9h",
-    "notes": "port time not found in itinerary"
+    "timeInPort": "9h"
   },
   {
     "date": "2027-03-26",
@@ -825,8 +775,7 @@
     "cruiseLine": "TUI Cruises",
     "arrival": "",
     "departure": "22:30",
-    "callType": "Port of call",
-    "notes": "departure only"
+    "callType": "Port of call"
   },
   {
     "date": "2027-03-27",
@@ -835,8 +784,7 @@
     "arrival": "09:00",
     "departure": "22:00",
     "callType": "Port of call",
-    "timeInPort": "13h",
-    "notes": "departure only"
+    "timeInPort": "13h"
   },
   {
     "date": "2027-03-31",
@@ -844,8 +792,7 @@
     "cruiseLine": "AIDA",
     "arrival": "",
     "departure": "22:00",
-    "callType": "Port of call",
-    "notes": "departure only"
+    "callType": "Port of call"
   },
   {
     "date": "2027-04-01",
@@ -862,8 +809,7 @@
     "cruiseLine": "TUI Cruises",
     "arrival": "",
     "departure": "22:30",
-    "callType": "Port of call",
-    "notes": "departure only"
+    "callType": "Port of call"
   },
   {
     "date": "2027-04-03",
@@ -872,8 +818,7 @@
     "arrival": "09:00",
     "departure": "22:00",
     "callType": "Port of call",
-    "timeInPort": "13h",
-    "notes": "arrival only"
+    "timeInPort": "13h"
   },
   {
     "date": "2027-04-03",
@@ -881,8 +826,7 @@
     "cruiseLine": "Costa Cruises",
     "arrival": "",
     "departure": "22:00",
-    "callType": "Port of call",
-    "notes": "departure only"
+    "callType": "Port of call"
   },
   {
     "date": "2027-04-04",
@@ -890,8 +834,7 @@
     "cruiseLine": "MSC Cruises",
     "arrival": "",
     "departure": "18:00",
-    "callType": "Port of call",
-    "notes": "departure only"
+    "callType": "Port of call"
   },
   {
     "date": "2027-04-09",
@@ -908,8 +851,7 @@
     "arrival": "09:00",
     "departure": "22:00",
     "callType": "Port of call",
-    "timeInPort": "13h",
-    "notes": "departure only"
+    "timeInPort": "13h"
   },
   {
     "date": "2027-04-11",
@@ -936,8 +878,7 @@
     "arrival": "09:00",
     "departure": "22:00",
     "callType": "Port of call",
-    "timeInPort": "13h",
-    "notes": "arrival only"
+    "timeInPort": "13h"
   },
   {
     "date": "2027-04-13",
@@ -945,8 +886,7 @@
     "cruiseLine": "Marella Cruises",
     "arrival": "",
     "departure": "22:00",
-    "callType": "Port of call",
-    "notes": "departure only"
+    "callType": "Port of call"
   },
   {
     "date": "2027-04-14",
@@ -954,8 +894,7 @@
     "cruiseLine": "AIDA",
     "arrival": "",
     "departure": "22:00",
-    "callType": "Port of call",
-    "notes": "departure only"
+    "callType": "Port of call"
   },
   {
     "date": "2027-04-16",
@@ -963,8 +902,7 @@
     "cruiseLine": "TUI Cruises",
     "arrival": "",
     "departure": "22:30",
-    "callType": "Port of call",
-    "notes": "departure only"
+    "callType": "Port of call"
   },
   {
     "date": "2027-04-16",
@@ -973,8 +911,7 @@
     "arrival": "07:00",
     "departure": "17:00",
     "callType": "Port of call",
-    "timeInPort": "10h",
-    "notes": "port time not found in itinerary"
+    "timeInPort": "10h"
   },
   {
     "date": "2027-04-19",
@@ -990,8 +927,7 @@
     "cruiseLine": "Marella Cruises",
     "arrival": "",
     "departure": "22:00",
-    "callType": "Port of call",
-    "notes": "departure only"
+    "callType": "Port of call"
   },
   {
     "date": "2027-04-20",
@@ -1007,8 +943,7 @@
     "cruiseLine": "AIDA",
     "arrival": "",
     "departure": "22:00",
-    "callType": "Port of call",
-    "notes": "departure only"
+    "callType": "Port of call"
   },
   {
     "date": "2027-04-21",
@@ -1017,8 +952,7 @@
     "arrival": "06:00",
     "departure": "16:00",
     "callType": "Port of call",
-    "timeInPort": "10h",
-    "notes": "port time not found in itinerary"
+    "timeInPort": "10h"
   },
   {
     "date": "2027-04-21",
@@ -1035,8 +969,7 @@
     "cruiseLine": "TUI Cruises",
     "arrival": "",
     "departure": "22:30",
-    "callType": "Port of call",
-    "notes": "departure only"
+    "callType": "Port of call"
   },
   {
     "date": "2027-04-23",
@@ -1078,8 +1011,7 @@
     "cruiseLine": "Marella Cruises",
     "arrival": "",
     "departure": "22:00",
-    "callType": "Port of call",
-    "notes": "departure only"
+    "callType": "Port of call"
   },
   {
     "date": "2027-04-29",
@@ -1087,8 +1019,7 @@
     "cruiseLine": "Viking Cruises",
     "arrival": "",
     "departure": "",
-    "callType": "Port of call",
-    "notes": "overnight/next-day timing"
+    "callType": "Port of call"
   },
   {
     "date": "2027-05-05",
@@ -1148,8 +1079,7 @@
     "cruiseLine": "Hapag Lloyd",
     "arrival": "",
     "departure": "",
-    "callType": "Port of call",
-    "notes": "port time not found in itinerary"
+    "callType": "Port of call"
   },
   {
     "date": "2027-07-23",
