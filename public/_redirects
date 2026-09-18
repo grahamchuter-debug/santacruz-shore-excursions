@@ -1,0 +1,9 @@
+# Path aliases → canonical routes (Workers Static Assets: relative URLs only).
+# Host-level www/http → apex redirects: Cloudflare Redirect Rules + Always Use HTTPS.
+# Do not add absolute https:// host rules here.
+#
+# Production apex: santacruzshoreexcursions.com
+# www.santacruzshoreexcursions.com → apex via Cloudflare Redirect Rules (not a second Worker origin).
+#
+# Add relative path aliases below as needed, e.g.:
+# /old-path /new-path/ 301

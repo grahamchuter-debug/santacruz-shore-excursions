@@ -1,0 +1,55 @@
+{
+  "generatedAt": "2026-09-18T07:43:29.209Z",
+  "wave": "wave-1d",
+  "port": "santa-cruz",
+  "destSlug": "santa-cruz",
+  "displayName": "Santa Cruz de Tenerife",
+  "counts": {
+    "2026": 50,
+    "2027": 85,
+    "2028_discovery": 75,
+    "2028_published": 0,
+    "public_total": 133,
+    "h1_2026": 0
+  },
+  "partial2026": true,
+  "filter2028": {
+    "decision": "HOLD",
+    "reason": "validated 10 < MIN_PUBLISH_ROWS 15 — HOLD; restricted rows NOT reintroduced",
+    "validatedCount": 10,
+    "tier2PrincessKeys": 0
+  },
+  "timeCompleteness": {
+    "2026": {
+      "total": 50,
+      "arrival": 29,
+      "departure": 38,
+      "both": 29,
+      "neither": 12,
+      "pctBoth": 58
+    },
+    "2027": {
+      "total": 85,
+      "arrival": 32,
+      "departure": 66,
+      "both": 32,
+      "neither": 19,
+      "pctBoth": 37.6
+    },
+    "2028": {
+      "total": 0,
+      "arrival": 0,
+      "departure": 0,
+      "both": 0,
+      "neither": 0,
+      "pctBoth": 0
+    }
+  },
+  "contaminationPurged": [
+    "src/data/imported-schedules/savona.json"
+  ],
+  "wireSchedulesTs": {
+    "wired": true,
+    "reason": "import wired"
+  }
+}

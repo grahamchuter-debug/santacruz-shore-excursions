@@ -1,0 +1,174 @@
+{
+  "destination": "santacruz",
+  "note": "Temporary Wikimedia Commons stand-ins for localhost development only. Replace before production. Do not use Italian Riviera leftovers.",
+  "images": [
+    {
+      "file": "anaga.jpg",
+      "subject": "Anaga.jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Anaga.jpg",
+      "note": "Temporary localhost stand-in — replace with licensed production assets before launch. Geographic accuracy of some stand-ins should be verified before production."
+    },
+    {
+      "file": "auditorio.jpg",
+      "subject": "Auditorio de Tenerife, Santa Cruz de Tenerife, España, 2012-12-15, DD 02.jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Auditorio de Tenerife, Santa Cruz de Tenerife, España, 2012-12-15, DD 02.jpg",
+      "note": "Temporary localhost stand-in — replace with licensed production assets before launch. Geographic accuracy of some stand-ins should be verified before production."
+    },
+    {
+      "file": "coast.jpg",
+      "subject": "Auditorio de Tenerife, Santa Cruz de Tenerife, España, 2012-12-15, DD 02.jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Auditorio de Tenerife, Santa Cruz de Tenerife, España, 2012-12-15, DD 02.jpg",
+      "note": "Temporary localhost stand-in — replace with licensed production assets before launch. Geographic accuracy of some stand-ins should be verified before production."
+    },
+    {
+      "file": "coastal.jpg",
+      "subject": "Auditorio de Tenerife, Santa Cruz de Tenerife, España, 2012-12-15, DD 02.jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Auditorio de Tenerife, Santa Cruz de Tenerife, España, 2012-12-15, DD 02.jpg",
+      "note": "Temporary localhost stand-in — replace with licensed production assets before launch. Geographic accuracy of some stand-ins should be verified before production."
+    },
+    {
+      "file": "compare.jpg",
+      "subject": "Teide.jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Teide.jpg",
+      "note": "Temporary localhost stand-in — replace with licensed production assets before launch. Geographic accuracy of some stand-ins should be verified before production."
+    },
+    {
+      "file": "cruise-port.jpg",
+      "subject": "Santa Cruz de Tenerife - 52312802120.jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Santa Cruz de Tenerife - 52312802120.jpg",
+      "note": "Temporary localhost stand-in — replace with licensed production assets before launch. Geographic accuracy of some stand-ins should be verified before production."
+    },
+    {
+      "file": "family.jpg",
+      "subject": "At At Santa Cruz de Tenerife 2023 112.jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "At At Santa Cruz de Tenerife 2023 112.jpg",
+      "note": "Temporary localhost stand-in — replace with licensed production assets before launch. Geographic accuracy of some stand-ins should be verified before production."
+    },
+    {
+      "file": "food-and-wine.jpg",
+      "subject": "Mercado-de-Nuestra-Señora-de-Africa-Rueckfront.jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Mercado-de-Nuestra-Señora-de-Africa-Rueckfront.jpg",
+      "note": "Temporary localhost stand-in — replace with licensed production assets before launch. Geographic accuracy of some stand-ins should be verified before production."
+    },
+    {
+      "file": "food.jpg",
+      "subject": "Mercado-de-Nuestra-Señora-de-Africa-Rueckfront.jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Mercado-de-Nuestra-Señora-de-Africa-Rueckfront.jpg",
+      "note": "Temporary localhost stand-in — replace with licensed production assets before launch. Geographic accuracy of some stand-ins should be verified before production."
+    },
+    {
+      "file": "hero-home.jpg",
+      "subject": "Caldera Las Cañadas mit Roques de García und TF-21.jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Caldera Las Cañadas mit Roques de García und TF-21.jpg",
+      "note": "Temporary localhost stand-in — replace with licensed production assets before launch. Geographic accuracy of some stand-ins should be verified before production."
+    },
+    {
+      "file": "hero.jpg",
+      "subject": "Caldera Las Cañadas mit Roques de García und TF-21.jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Caldera Las Cañadas mit Roques de García und TF-21.jpg",
+      "note": "Temporary localhost stand-in — replace with licensed production assets before launch. Geographic accuracy of some stand-ins should be verified before production."
+    },
+    {
+      "file": "historic.jpg",
+      "subject": "Iglesia de Santo Domingo de Guzmán, San Cristóbal de La Laguna, Tenerife, España, 2012-12-15, DD 01.jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Iglesia de Santo Domingo de Guzmán, San Cristóbal de La Laguna, Tenerife, España, 2012-12-15, DD 01.jpg",
+      "note": "Temporary localhost stand-in — replace with licensed production assets before launch. Geographic accuracy of some stand-ins should be verified before production."
+    },
+    {
+      "file": "la-laguna.jpg",
+      "subject": "Catedral de San Cristóbal de La Laguna, Tenerife, España, 2022-01-07, DD, DD 85-87 HDR.jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Catedral de San Cristóbal de La Laguna, Tenerife, España, 2022-01-07, DD, DD 85-87 HDR.jpg",
+      "note": "Temporary localhost stand-in — replace with licensed production assets before launch. Geographic accuracy of some stand-ins should be verified before production."
+    },
+    {
+      "file": "las-canadas.jpg",
+      "subject": "Caldera Las Cañadas mit Roques de García und TF-21.jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Caldera Las Cañadas mit Roques de García und TF-21.jpg",
+      "note": "Temporary localhost stand-in — replace with licensed production assets before launch. Geographic accuracy of some stand-ins should be verified before production."
+    },
+    {
+      "file": "mercado-africa.jpg",
+      "subject": "Mercado-de-Nuestra-Señora-de-Africa-Rueckfront.jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Mercado-de-Nuestra-Señora-de-Africa-Rueckfront.jpg",
+      "note": "Temporary localhost stand-in — replace with licensed production assets before launch. Geographic accuracy of some stand-ins should be verified before production."
+    },
+    {
+      "file": "mount-teide.jpg",
+      "subject": "Teide.jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Teide.jpg",
+      "note": "Temporary localhost stand-in — replace with licensed production assets before launch. Geographic accuracy of some stand-ins should be verified before production."
+    },
+    {
+      "file": "nature.jpg",
+      "subject": "Caldera Las Cañadas mit Roques de García und TF-21.jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Caldera Las Cañadas mit Roques de García und TF-21.jpg",
+      "note": "Temporary localhost stand-in — replace with licensed production assets before launch. Geographic accuracy of some stand-ins should be verified before production."
+    },
+    {
+      "file": "og-default.jpg",
+      "subject": "100 Caras del Auditorio de Tenerife, Santa Cruz de Tenerife, España, 2012-12-15, DD 03.jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "100 Caras del Auditorio de Tenerife, Santa Cruz de Tenerife, España, 2012-12-15, DD 03.jpg",
+      "note": "Temporary localhost stand-in — replace with licensed production assets before launch. Geographic accuracy of some stand-ins should be verified before production."
+    },
+    {
+      "file": "photography.jpg",
+      "subject": "Roque Cinchado.jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Roque Cinchado.jpg",
+      "note": "Temporary localhost stand-in — replace with licensed production assets before launch. Geographic accuracy of some stand-ins should be verified before production."
+    },
+    {
+      "file": "plaza-espana.jpg",
+      "subject": "At At Santa Cruz de Tenerife 2023 112.jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "At At Santa Cruz de Tenerife 2023 112.jpg",
+      "note": "Temporary localhost stand-in (Santa Cruz street scene) — replace before launch"
+    },
+    {
+      "file": "private.jpg",
+      "subject": "Valle de La Orotava qtl1.jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Valle de La Orotava qtl1.jpg",
+      "note": "Temporary localhost stand-in — replace with licensed production assets before launch. Geographic accuracy of some stand-ins should be verified before production."
+    },
+    {
+      "file": "santa-cruz-waterfront.jpg",
+      "subject": "Santa Cruz de Tenerife - 52312802120.jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Santa Cruz de Tenerife - 52312802120.jpg",
+      "note": "Temporary localhost stand-in — replace with licensed production assets before launch. Geographic accuracy of some stand-ins should be verified before production."
+    },
+    {
+      "file": "walking.jpg",
+      "subject": "Santa Cruz de Tenerife - 52312802120.jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Santa Cruz de Tenerife - 52312802120.jpg",
+      "note": "Temporary localhost stand-in (reused Santa Cruz waterfront) — replace before launch"
+    },
+    {
+      "file": "wine.jpg",
+      "subject": "Mercado-de-Nuestra-Señora-de-Africa-Rueckfront.jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Mercado-de-Nuestra-Señora-de-Africa-Rueckfront.jpg",
+      "note": "Temporary localhost stand-in — replace with licensed production assets before launch. Geographic accuracy of some stand-ins should be verified before production."
+    }
+  ]
+}

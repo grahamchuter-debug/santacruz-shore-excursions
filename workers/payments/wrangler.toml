@@ -1,0 +1,23 @@
+name = "santacruz-payments"
+main = "src/index.ts"
+compatibility_date = "2025-07-01"
+compatibility_flags = ["nodejs_compat"]
+
+[[d1_databases]]
+binding = "DB"
+database_name = "santacruz-bookings"
+database_id = "00000000-0000-0000-0000-000000000000"
+migrations_dir = "migrations"
+
+[vars]
+CHECKOUT_CURRENCY = "eur"
+BOOKING_REF_PREFIX = "SC"
+BOOKING_PRICE_PER_GUEST_EUR = "149"
+ORIGINATING_SITE = "santacruzshoreexcursions.com"
+ORIGINATING_PORT = "Santa Cruz"
+SITE_BASE_URL = "http://localhost:3000"
+SITE_ORIGIN = "http://localhost:3000"
+CORS_ALLOWED_ORIGINS = "http://localhost:3000,http://127.0.0.1:3000,https://santacruzshoreexcursions.com,https://www.santacruzshoreexcursions.com"
+INTERNAL_BOOKING_EMAIL = "info@wowatour.com"
+EMAIL_FROM = "bookings@notifications.wowatour.com"
+EMAIL_FROM_NAME = "Santa Cruz Shore Excursions"
